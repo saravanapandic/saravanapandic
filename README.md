@@ -1,13 +1,13 @@
-Greetings, everyone! I'm Saravana Pandi, I'm working as a Junior Associate at Elait.
+Greetings, everyone! I'm Saravana Pandi, currently employed as a Junior Associate.
 
-*/ I extend my gratitude to you for taking the time to explore my GitHub profile. As a passionate data enthusiast, I thrive on embracing new technologies to unearth solutions for real-world challenges.
+Thank you so much for taking the time to explore my GitHub profile. As an avid data enthusiast, I am passionate about leveraging new technologies to solve real-world challenges.
 
-*/ Here, I showcase proof-of-concept projects related to data engineering and actively engage in collaborative brainstorming sessions. 
+On my GitHub, you'll find proof-of-concept projects focused on data engineering and my active participation in collaborative brainstorming sessions.
 
-*/ Join me in the journey of innovation and exploration through data-driven insights!
+In addition to my professional endeavors, I also take on freelance projects related to data engineering, including web scraping initiatives. If you have any related projects or collaborations in mind, please don't hesitate to reach out!
 
+Join me on this exciting journey of innovation and exploration through data-driven insights!
 
 LinkedIn:https://www.linkedin.com/in/saravana-pandi-9a9662198/
 Email: csaravanakd@gmail.com
-
 
