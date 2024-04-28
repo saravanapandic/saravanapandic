@@ -1,4 +1,4 @@
-Greetings, everyone! I'm Saravana Pandi, currently employed as a Junior Associate.
+Greetings, everyone! I'm Saravana Pandi, currently employed as a data engineer(snowflake).
 
 Thank you so much for taking the time to explore my GitHub profile. As an avid data enthusiast, I am passionate about leveraging new technologies to solve real-world challenges.
 
